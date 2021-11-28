@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ProgectWithLessons"
 include ':app'
+include ':lessons1'
